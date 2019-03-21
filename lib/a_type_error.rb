@@ -1,3 +1,3 @@
 1 + 1
 
-1.ToString() + "is the loneliest number"
+1 + 1
